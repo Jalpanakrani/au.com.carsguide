@@ -1,0 +1,136 @@
+2022-05-20 17:05:54 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:894 INFO  HomePage :37 - click on search car :[[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:440 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:733 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:65 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:382 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:333 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (9f2c07e8-6d49-412f-a1d3-b337e8e882c0)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:500 INFO  ResultPage :20 - getting search result text Proxy element for: DefaultElementLocator 'By.xpath: //h1[@class='listing-search-title']'
+2022-05-20 17:05:873 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:116 INFO  HomePage :37 - click on search car :[[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:478 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:836 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:127 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:444 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:901 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:43 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (d4815e3d-fcef-4486-bf19-accb043a8dbc)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:483 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:318 INFO  HomePage :37 - click on search car :[[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:665 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:17 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:339 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:616 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:78 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:148 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (973c0c43-e8c5-4a23-87b0-4b72ef650183)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:602 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (9a47662b-fa0e-497a-8f94-68778119277e)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:737 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:710 INFO  HomePage :37 - click on search car :[[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:269 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:583 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:864 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:169 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:484 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:550 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (26b796b3-bbe7-430a-89d6-b06ee9f46363)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:488 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:831 INFO  HomePage :42 - click on used car :[[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //a[normalize-space()='Used']]
+2022-05-20 17:05:161 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:489 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:800 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:107 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:590 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:631 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (be0d1b6e-3e68-4792-a0f7-d6a9d425f9a9)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:343 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (895429de-8946-4372-840b-c4b555d35938)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:235 INFO  HomePage :42 - click on used car :[[FirefoxDriver: firefox on WINDOWS (895429de-8946-4372-840b-c4b555d35938)] -> xpath: //a[normalize-space()='Used']]
+2022-05-20 17:05:568 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (895429de-8946-4372-840b-c4b555d35938)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:929 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:131 INFO  HomePage :42 - click on used car :[[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //a[normalize-space()='Used']]
+2022-05-20 17:05:470 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:782 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:99 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:371 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:579 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:677 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (4de263e1-2e53-427b-a319-d0a9779c46b0)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:08 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:246 INFO  HomePage :42 - click on used car :[[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //a[normalize-space()='Used']]
+2022-05-20 17:05:596 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:908 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:201 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:501 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:920 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:05 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (7a0419a5-4e1d-4db6-83fc-5e0f8de0177d)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:238 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:728 INFO  HomePage :42 - click on used car :[[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //a[normalize-space()='Used']]
+2022-05-20 17:05:38 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:367 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:660 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:928 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:504 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:541 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (6a698bfb-9f0d-49c4-8531-dabe99d6949a)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 17:05:229 INFO  HomePage :30 - Mouse Hover on name :[[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-20 17:05:269 INFO  HomePage :42 - click on used car :[[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //a[normalize-space()='Used']]
+2022-05-20 17:05:587 INFO  CarSearchPage :38 - select from any make field : [[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //select[@id='makes']]
+2022-05-20 17:05:924 INFO  CarSearchPage :44 - select from any model : [[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //select[@id='models']]
+2022-05-20 17:05:221 INFO  CarSearchPage :50 - select any location : [[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //select[@id='locations']]
+2022-05-20 17:05:534 INFO  CarSearchPage :56 - select price : [[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //select[@id='priceTo']]
+2022-05-20 17:05:476 INFO  CarSearchPage :61 - click on find my car : [[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //input[@id='search-submit']]
+2022-05-20 17:05:560 INFO  ResultPage :20 - getting search result text [[FirefoxDriver: firefox on WINDOWS (d31e11fc-ad09-4273-a3ec-96f3dc58f491)] -> xpath: //h1[@class='listing-search-title']]
+2022-05-20 19:05:243 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:669 INFO  HomePage :32 - Clicking on serch car[[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //a[contains(text(),'Search Cars')]]<br>
+2022-05-20 19:05:197 INFO  CarsguidePage :43 - Selecting anymakeAudi from dropdown [[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //select[@id='makes']]<br>
+2022-05-20 19:05:258 INFO  CarsguidePage :47 - Selecting models Any Model from dropdown [[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //select[@id='models']]<br>
+2022-05-20 19:05:531 INFO  CarsguidePage :51 - Selecting NSW - All from dropdown [[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //select[@id='locations']]<br>
+2022-05-20 19:05:799 INFO  CarsguidePage :55 - Selecting Price $25,000 from dropdown [[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //select[@id='priceTo']]<br>
+2022-05-20 19:05:253 INFO  CarsguidePage :59 - Clicking on find my carProxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'<br>
+2022-05-20 19:05:264 INFO  CarsguidePage :62 - getting  text from makes [[FirefoxDriver: firefox on WINDOWS (b9646134-4641-44e6-a6d9-578929167912)] -> xpath: //h1[@class='listing-search-title']]<br>
+2022-05-20 19:05:08 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:15 INFO  HomePage :32 - Clicking on serch car[[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //a[contains(text(),'Search Cars')]]<br>
+2022-05-20 19:05:417 INFO  CarsguidePage :43 - Selecting anymakeBMW from dropdown [[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //select[@id='makes']]<br>
+2022-05-20 19:05:468 INFO  CarsguidePage :47 - Selecting models Any Model from dropdown [[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //select[@id='models']]<br>
+2022-05-20 19:05:742 INFO  CarsguidePage :51 - Selecting NT - North from dropdown [[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //select[@id='locations']]<br>
+2022-05-20 19:05:23 INFO  CarsguidePage :55 - Selecting Price $20,000 from dropdown [[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //select[@id='priceTo']]<br>
+2022-05-20 19:05:655 INFO  CarsguidePage :59 - Clicking on find my carProxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'<br>
+2022-05-20 19:05:678 INFO  CarsguidePage :62 - getting  text from makes [[FirefoxDriver: firefox on WINDOWS (c55e5856-46ff-4150-a711-23580c3f369e)] -> xpath: //h1[@class='listing-search-title']]<br>
+2022-05-20 19:05:283 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:422 INFO  HomePage :32 - Clicking on serch car[[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //a[contains(text(),'Search Cars')]]<br>
+2022-05-20 19:05:821 INFO  CarsguidePage :43 - Selecting anymakeFord from dropdown [[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //select[@id='makes']]<br>
+2022-05-20 19:05:880 INFO  CarsguidePage :47 - Selecting models Any Model from dropdown [[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //select[@id='models']]<br>
+2022-05-20 19:05:168 INFO  CarsguidePage :51 - Selecting QLD - Central Coast from dropdown [[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //select[@id='locations']]<br>
+2022-05-20 19:05:452 INFO  CarsguidePage :55 - Selecting Price $30,000 from dropdown [[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //select[@id='priceTo']]<br>
+2022-05-20 19:05:682 INFO  CarsguidePage :59 - Clicking on find my carProxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'<br>
+2022-05-20 19:05:692 INFO  CarsguidePage :62 - getting  text from makes [[FirefoxDriver: firefox on WINDOWS (a24aac91-1331-48fa-99ed-a0ed48d7e79b)] -> xpath: //h1[@class='listing-search-title']]<br>
+2022-05-20 19:05:649 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:472 INFO  HomePage :32 - Clicking on serch car[[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //a[contains(text(),'Search Cars')]]<br>
+2022-05-20 19:05:886 INFO  CarsguidePage :43 - Selecting anymakeHolden from dropdown [[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //select[@id='makes']]<br>
+2022-05-20 19:05:923 INFO  CarsguidePage :47 - Selecting models Any Model from dropdown [[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //select[@id='models']]<br>
+2022-05-20 19:05:178 INFO  CarsguidePage :51 - Selecting QLD - Central West from dropdown [[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //select[@id='locations']]<br>
+2022-05-20 19:05:437 INFO  CarsguidePage :55 - Selecting Price $35,000 from dropdown [[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //select[@id='priceTo']]<br>
+2022-05-20 19:05:666 INFO  CarsguidePage :59 - Clicking on find my carProxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'<br>
+2022-05-20 19:05:686 INFO  CarsguidePage :62 - getting  text from makes [[FirefoxDriver: firefox on WINDOWS (162b27f7-a3a4-46ec-8eca-b7cffcbda4ea)] -> xpath: //h1[@class='listing-search-title']]<br>
+2022-05-20 19:05:106 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:207 INFO  HomePage :32 - Clicking on serch car[[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //a[contains(text(),'Search Cars')]]<br>
+2022-05-20 19:05:599 INFO  CarsguidePage :43 - Selecting anymakeHonda from dropdown [[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //select[@id='makes']]<br>
+2022-05-20 19:05:878 INFO  CarsguidePage :47 - Selecting models MDX from dropdown [[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //select[@id='models']]<br>
+2022-05-20 19:05:922 INFO  CarsguidePage :51 - Selecting Any Location from dropdown [[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //select[@id='locations']]<br>
+2022-05-20 19:05:180 INFO  CarsguidePage :55 - Selecting Price $15,000 from dropdown [[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //select[@id='priceTo']]<br>
+2022-05-20 19:05:368 INFO  CarsguidePage :59 - Clicking on find my carProxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'<br>
+2022-05-20 19:05:379 INFO  CarsguidePage :62 - getting  text from makes [[FirefoxDriver: firefox on WINDOWS (cb943a0e-fe67-4ce2-a933-8ad46ead801e)] -> xpath: //h1[@class='listing-search-title']]<br>
+2022-05-20 19:05:356 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:37 INFO  HomePage :32 - Clicking on serch car[[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //a[contains(text(),'Search Cars')]]<br>
+2022-05-20 19:05:438 INFO  CarsguidePage :43 - Selecting anymakeHyundai from dropdown [[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //select[@id='makes']]<br>
+2022-05-20 19:05:499 INFO  CarsguidePage :47 - Selecting models Any Model from dropdown [[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //select[@id='models']]<br>
+2022-05-20 19:05:533 INFO  CarsguidePage :51 - Selecting Any Location from dropdown [[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //select[@id='locations']]<br>
+2022-05-20 19:05:784 INFO  CarsguidePage :55 - Selecting Price $20,000 from dropdown [[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //select[@id='priceTo']]<br>
+2022-05-20 19:05:28 INFO  CarsguidePage :59 - Clicking on find my carProxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'<br>
+2022-05-20 19:05:46 INFO  CarsguidePage :62 - getting  text from makes [[FirefoxDriver: firefox on WINDOWS (3e1cebce-af69-44a4-bea7-cbf07710c74c)] -> xpath: //h1[@class='listing-search-title']]<br>
+2022-05-20 19:05:383 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (ea161d71-db3e-4ca5-923d-de646dd6c2e0)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:872 INFO  HomePage :37 - Clicking on used[[FirefoxDriver: firefox on WINDOWS (ea161d71-db3e-4ca5-923d-de646dd6c2e0)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]<br>
+2022-05-20 19:05:529 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (e625b78c-a25c-40aa-b31d-c79b1d05841e)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:992 INFO  HomePage :37 - Clicking on used[[FirefoxDriver: firefox on WINDOWS (e625b78c-a25c-40aa-b31d-c79b1d05841e)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]<br>
+2022-05-20 19:05:905 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (f9b4ed12-1e72-42d3-9f3a-beea6694ceda)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:482 INFO  HomePage :37 - Clicking on used[[FirefoxDriver: firefox on WINDOWS (f9b4ed12-1e72-42d3-9f3a-beea6694ceda)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]<br>
+2022-05-20 19:05:272 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (b78c4807-48fb-4128-a287-589892fd6a53)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:522 INFO  HomePage :37 - Clicking on used[[FirefoxDriver: firefox on WINDOWS (b78c4807-48fb-4128-a287-589892fd6a53)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]<br>
+2022-05-20 19:05:285 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (d662d768-f95c-45f4-8608-cec208409679)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:803 INFO  HomePage :37 - Clicking on used[[FirefoxDriver: firefox on WINDOWS (d662d768-f95c-45f4-8608-cec208409679)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]<br>
+2022-05-20 19:05:120 INFO  HomePage :27 - mousehover on buy and sell [[FirefoxDriver: firefox on WINDOWS (5ecd1d3f-d811-4253-82d9-9eacfbfb3f9e)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-20 19:05:862 INFO  HomePage :37 - Clicking on used[[FirefoxDriver: firefox on WINDOWS (5ecd1d3f-d811-4253-82d9-9eacfbfb3f9e)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]<br>
